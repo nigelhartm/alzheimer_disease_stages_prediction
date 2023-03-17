@@ -17,11 +17,20 @@ We used Google colab to run our training and prediction.
 
 # References
 https://adni.loni.usc.edu/
+
 https://www.alzheimers.net/
+
 https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers
+
 https://ieeexplore.ieee.org/document/9521165
+
 https://catalog.data.gov/dataset/alzheimers-disease-and-healthy-aging-data
+
 https://www.nature.com/articles/s41598-020-79243-9
+
 https://cordis.europa.eu/article/id/429468-the-final-epad-dataset-is-now-available-on-the-alzheimer-s-disease-workbench
+
 https://www.kaggle.com/code/psycon/brain-mri-image-alzheimer-classifier/notebook
+
 https://colab.research.google.com/github/ShanmukhVegi/Image-Classification/blob/main/Shanmukh_Classification.ipynb#scrollTo=JSapSw-h5HK0
+
