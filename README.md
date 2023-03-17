@@ -1,8 +1,9 @@
 # alzheimer_disease_type_prediction
 This project was done by [jeongahblairlee](https://github.com/jeongahblairlee) and [nigelhartm](https://github.com/nigelhartm) for the module Bioimage Analysis and Extended Phenotyping (Msc. Bioinformatics) in one week. As a dataset we used https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset and our initial code we got from https://www.kaggle.com/code/psycon/brain-mri-image-alzheimer-classifier. From there we tried to improve the prediction and implemented a SVM approach as well. Our main focus was in trying to understand the underlaying approaches/data needed to do a prediction of Alzheimer's disease types (Mild Demented, Moderate Demented, Non Demented, Very Mild Demented) based on brain MRI pictures. In the following you can observe our actions and results.
 
-# Runtime
-We used Google colab to run our training and prediction.
+# Further description and usage
+We used Google colab to run our training and prediction, thats where our main.ipynb is coming from.
+Our best result we achieved by using a SVM, which we saved as a pre trained model and provide here as well.
 
 # Presentation
 ![alt text](https://github.com/nigelhartm/alzheimer_disease_stages_prediction/blob/main/presentation/01.jpg)
