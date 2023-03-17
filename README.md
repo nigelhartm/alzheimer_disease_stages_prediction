@@ -1,3 +1,3 @@
-# bioimaging_project
+# alzheimer_disease_type_prediction
 This project was done by ... for the module Bioimage Analysis and Extended Phenotyping (Msc. Bioinformatics) in one week. As a dataset we used https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset and our initial code we got from https://www.kaggle.com/code/psycon/brain-mri-image-alzheimer-classifier. From there we tried to improve the prediction and implemented a SVM approach as well. Our main focus was in trying to understand the underlaying approaches/data needed to do a prediction of Alzheimer's disease types (Mild Demented, Moderate Demented, Non Demented, Very Mild Demented) based on brain MRI pictures. In the following you can observe our actions and results.
 
