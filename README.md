@@ -23,6 +23,11 @@ This provided us an accuracy of 0.9825 in predicting the correct stage of Alzhei
 This we already tried at the CNN approach but didn't get good results. It is planned to do it on the SVM approach.
 ![alt text](https://github.com/nigelhartm/alzheimer_disease_stages_prediction/blob/main/presentation/09.jpg)
 
+# Planned
+* optimzing model (open)
+* create webpage for project (done) -> http://nigelhartm.github.io/alzheimer_disease_stages_prediction
+* implement a webpage with tensorflow for javascript (open)
+
 # References
 https://adni.loni.usc.edu/
 
